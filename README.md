@@ -1,5 +1,5 @@
 # Abnomaly behavior detection
-Detect two types of behaviours from videos.
+Detect n types of behaviours from videos.
 
 Play with dataset: 
 Public dataset at 
