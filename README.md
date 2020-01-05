@@ -1,5 +1,5 @@
 # Abnomaly behavior detection
-detect two types pf behaviour from video
+Detect two types of behaviours from videos.
 
 Play with dataset: 
 Public dataset at 
